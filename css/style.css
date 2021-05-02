@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 80%;
+    margin: 100px auto;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+h1 {
+    color: red;
+}
+
+span {
+    color: black;
+}
